@@ -3,7 +3,7 @@
   <header>
     <div class="title">
       <img src="./assets/heart.svg" alt="site logo">
-      <h1>LivraiZone</h1>
+      <h1>LivraiZonne</h1>
     </div>
     <div class="order">
       <button @click="handleClick('title')"> order by title</button>
